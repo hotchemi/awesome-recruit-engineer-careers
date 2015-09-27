@@ -9,8 +9,7 @@
 メディアテクノロジーラボなどはホールディングスに所属している。新卒採用も一括で実施している。
 
 - [2016年度新卒Web採用サイト](http://recruit-jinji.jp/)
-- [GitHub](https://github.com/recruit)
-- [Recruit Media Technology Lab ()](http://mtl.recruit.co.jp/)
+- [Recruit Media Technology Lab](http://mtl.recruit.co.jp/)
 
 ## [Recruit Technologies Co.,Ltd.](http://recruit-tech.co.jp/)
 
@@ -24,7 +23,7 @@
   - [Walter](https://github.com/walter-cd)
   - [RedPen](http://redpen.cc/)
 - [株式会社リクルートテクノロジーズ - Wantedly](https://www.wantedly.com/companies/r-tech?ql=gaJpZM4AEI4X)
-- 
+ 
 ## [Recruit Communications Co., Ltd.](http://www.rco.recruit.co.jp/)
 
 リクルートグループの制作を担う機能会社。アドテクノロジーに強い。
@@ -36,7 +35,9 @@
 
 ## [Recruit Marketing Partners Co.,Ltd](http://www.recruit-mp.co.jp/)
 
-ゼクシイ、カーセンサー、リクナビ進学、受験サプリ等のサービスを有している。昨今は内製開発部隊の充実を図っている。
+ゼクシイ、カーセンサー、リクナビ進学、受験サプリ等のサービスを有している。
+
+昨今は内製開発部隊の充実を図っており、技術フェローに[@takesako](https://twitter.com/takesako)氏を有する。
 
 - [エンジニア採用 | リクルートマーケティングパートナーズ](http://www.recruit-mp.co.jp/career_engineer/)
 - [NET BIZ DIV. TECH BLOG | リクルートマーケティングパートナーズのデザイナー、エンジニア、スクラムマスターたちが発信する Web 開発情報メディア](http://tech.recruit-mp.co.jp/)
