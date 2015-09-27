@@ -1,2 +1,6 @@
 # awesome-recruit-engineer-careers
-リクルートグループのエンジニア採用情報
+
+[リクルートグループ](http://www.recruit.jp)各社のエンジニア採用情報についてまとめるページです。
+
+情報の修正、追加等はpull requestお待ちしております。
+
