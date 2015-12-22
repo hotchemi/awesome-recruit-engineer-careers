@@ -43,6 +43,7 @@
 - [NET BIZ DIV. TECH BLOG | リクルートマーケティングパートナーズのデザイナー、エンジニア、スクラムマスターたちが発信する Web 開発情報メディア](http://tech.recruit-mp.co.jp/)
 - [GitHub](https://github.com/recruit-mp)
 - [株式会社リクルートマーケティングパートナーズ - Wantedly](https://www.wantedly.com/companies/recruit-mp)
+- [Qiita](https://qiita.com/organizations/recruitmp)
 
 ## [Recruit Lifestyle Co. Ltd.](http://www.recruit-lifestyle.co.jp/)
 
