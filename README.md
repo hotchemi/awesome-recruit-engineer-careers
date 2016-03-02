@@ -53,6 +53,7 @@ HotPepper、じゃらん、ポンパレ、Airレジ等多様なサービスを�
 - [Tech Blog | リクルートライフスタイル RECRUIT LIFESTYLE](http://engineer.recruit-lifestyle.co.jp/techblog/)
 - [GitHub](https://github.com/recruit-lifestyle)
 - [株式会社リクルートライフスタイル - Wantedly](https://www.wantedly.com/companies/recruitlifestyle)
+- [Qiita](http://qiita.com/organizations/recruitlifestyle)
 
 ## [Recruit Career Co., Ltd.](http://www.recruitcareer.co.jp/)
 
