@@ -91,6 +91,7 @@ indeed.comを展開するアメリカ・オースティンにHQがある会社�
 東南アジアを中心に教育サービスを展開する会社。ロンドンにHQがあり、社内公用語は英語。
 
 - [エンジニア採用（リクルートマーケティングパートナーズと共有）](http://www.recruit-mp.co.jp/career_engineer/)
+- [Quipper career](https://www.quipper.com/career/Japan/)
 - [Quipper Ltd - Wantedly](https://www.wantedly.com/companies/quipper)
 - [GitHub](https://github.com/quipper)
 - [Qiita](http://qiita.com/organizations/quipper)
