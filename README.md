@@ -6,10 +6,9 @@
 
 ## [Recruit Holdings](http://www.recruit.jp)
 
-メディアテクノロジーラボなどはホールディングスに所属している。新卒採用も一括で実施している。
+新卒採用は一括で実施している。
 
-- [2016年度新卒Web採用サイト](http://recruit-jinji.jp/)
-- [Recruit Media Technology Lab](http://mtl.recruit.co.jp/)
+- [新卒Web採用サイト](http://recruit-jinji.jp/)
 
 ## [Recruit Technologies Co.,Ltd.](http://recruit-tech.co.jp/)
 
@@ -40,7 +39,7 @@
 昨今は内製開発部隊の充実を図っており、技術フェローに[@takesako](https://twitter.com/takesako)氏を有する。
 
 - [エンジニア採用 | リクルートマーケティングパートナーズ](http://www.recruit-mp.co.jp/career_engineer/)
-- [NET BIZ DIV. TECH BLOG | リクルートマーケティングパートナーズのデザイナー、エンジニア、スクラムマスターたちが発信する Web 開発情報メディア](http://tech.recruit-mp.co.jp/)
+- [PSYENCE:MEDIA – リクルートマーケティングパートナーズのデザイナー、エンジニア、スクラムマスターたちが発信する開発情報メディア](http://tech.recruit-mp.co.jp/)
 - [GitHub](https://github.com/recruit-mp)
 - [株式会社リクルートマーケティングパートナーズ - Wantedly](https://www.wantedly.com/companies/recruit-mp)
 - [Qiita](https://qiita.com/organizations/recruitmp)
@@ -76,7 +75,6 @@ SUUMO等住まいに関するサービスを有している。
 
 - [リクルート 住まいカンパニー 中途採用情報サイト](http://www.recruit-sumai.co.jp/chuuto/)
 - [株式会社リクルート住まいカンパニー - Wantedly](https://www.wantedly.com/companies/recruit-sumai?ql=gaJpZM4AEI4N)
-- [Tech Blog - リクルート住まいカンパニー](https://tech.recruit-sumai.co.jp/)
 
 ## [Indeed,Inc.](http://jp.indeed.com/about)
 
