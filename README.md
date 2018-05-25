@@ -6,10 +6,9 @@
 
 ## [Recruit Holdings](http://www.recruit.jp)
 
-メディアテクノロジーラボなどはホールディングスに所属している。新卒採用も一括で実施している。
+新卒採用は一括で実施している。
 
-- [2016年度新卒Web採用サイト](http://recruit-jinji.jp/)
-- [Recruit Media Technology Lab](http://mtl.recruit.co.jp/)
+- [新卒Web採用サイト](http://recruit-jinji.jp/)
 
 ## [Recruit Technologies Co.,Ltd.](http://recruit-tech.co.jp/)
 
