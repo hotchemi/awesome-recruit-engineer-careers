@@ -75,7 +75,6 @@ SUUMO等住まいに関するサービスを有している。
 
 - [リクルート 住まいカンパニー 中途採用情報サイト](http://www.recruit-sumai.co.jp/chuuto/)
 - [株式会社リクルート住まいカンパニー - Wantedly](https://www.wantedly.com/companies/recruit-sumai?ql=gaJpZM4AEI4N)
-- [Tech Blog - リクルート住まいカンパニー](https://tech.recruit-sumai.co.jp/)
 
 ## [Indeed,Inc.](http://jp.indeed.com/about)
 
